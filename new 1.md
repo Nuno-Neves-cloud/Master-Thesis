@@ -1,0 +1,10 @@
+The links for the videos recorded to aid the understanding of the technology by the reader are also
+listed here.
+ Augmented Reality first person view with Leap Motion and Structure Core sensors:
+[![IMAGE] (https://img.youtube.com/vi/vDCqBXOp-3M/0.jpg)](https://www.youtu.be/vDCqBXOp-3M)
+ Augmented Reality with Leap Motion and Structure Core sensors for Alzheimer Disease
+research:
+https://youtu.be/yXMpcFGrRMY
+ Augmented Reality Tools applied to Alzheimer’s Disease Research,Without Structure Core
+Sensor:
+https://youtu.be/kJLFtH8mlXA
